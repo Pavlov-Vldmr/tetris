@@ -15,3 +15,7 @@ canvas{
     background-color: rgb(30, 30, 30);
     border: 2px solid gray;
 }
+
+.scoreBlock>p{
+    color: wheat;
+}
